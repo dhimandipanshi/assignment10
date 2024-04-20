@@ -1,2 +1,2 @@
 
-https://dhimandipanshi.github.io/assignment10/
+https://dhimandipanshi.github.io
