@@ -1,2 +1,2 @@
 
-https://dhimandipanshi.github.io
+https://dhimandipanshi.github.io/
